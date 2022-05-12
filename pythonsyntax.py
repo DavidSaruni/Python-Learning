@@ -19,3 +19,19 @@ print('My Name is: ', Name)
 print('I am :', Age, 'Old')
 print('I love', Hobby)
 print('I also have interest in', Interests)
+
+# COMMENTS IN PYTHON
+
+# This is a one line comment
+
+"""
+This is 
+a 
+multiple lines
+comment -
+It comments
+several 
+lines 
+at 
+once
+"""
