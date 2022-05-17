@@ -97,3 +97,13 @@ print(" --- Python Membership Operators --- ")
 x=["pineapple", "Banana", "Orange"]
 print("pineapple" in x) # returns true because a sequence with the value "pineapple is in the list.
 print("Mango" in x) # returns False because a sequence with the value "Mango" is not in the list
+
+""" Python Bitwise Operators """
+"""
+& (and) - Sets each bit to 1 if both bits are 1
+| (or) - Sets each bit to 1 if one of the bits is one
+^ (xor) - Sets each bit to 1 if only one of two bits is 1
+~ (not) - Inverts all the bits
+<< (zero fill/left shift) - Shift left by pushing zeros in from the right and let the leftmost bits fall off
+>>	(Signed/ right shift) - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
+"""
